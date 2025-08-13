@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import HeroCarousel from "./carousel";
+// import HeroCarousel from "./carousel";
 
 export default function DayOneHero() {
   return (
