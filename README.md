@@ -1,13 +1,9 @@
 ## COMPONENTS GALORE
 
----
-
 ## Hello there 👋,
 
 This is my my rendition of 75 hard but with code.
 Join me on my creatuve and innovative journey to showcase 75 reusable UI components (navbars, hero sections, footers and more)
-
----
 
 Each day’s component is viewable via its own page in this monorepo.
 
