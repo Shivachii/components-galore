@@ -1,8 +1,8 @@
-##COMPONENTS GALORE
+## COMPONENTS GALORE
 
 ---
 
-Hello there 👋,
+## Hello there 👋,
 
 This is my my rendition of 75 hard but with code.
 Join me on my creatuve and innovative journey to showcase 75 reusable UI components (navbars, hero sections, footers and more)
@@ -11,7 +11,7 @@ Join me on my creatuve and innovative journey to showcase 75 reusable UI compone
 
 Each day’s component is viewable via its own page in this monorepo.
 
-📜 Challenge Rules
+## 📜 Challenge Rules
 
 1. Build 1 new component every day for 75 days.
 
